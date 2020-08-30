@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>FCXSTUDIO首页</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+.fcxstudio {
+	font-family: Microsoft YaHei UI Light;
+}
+.fcxstudio {
+	font-family: Microsoft YaHei UI;
+}
+body,td,th {
+	font-size: 16px;
+}
+body {
+	background-image: url(%E7%BD%91%E7%AB%99%E6%AC%A1%E6%94%AF%E6%8C%81%E6%96%87%E4%BB%B6/FCXSTUDIO_LOGO_04.png);
+}
+.fcxstudio2 {
+	font-family: Microsoft YaHei UI Light;
+}
+a {
+	font-style: italic;
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
+</style>
+</head>
+<body background="网站次支持文件/FCXSTUDIO_LOGO_04.png" tracingsrc="网站次支持文件/FCXSTUDIO_LOGO_04.png" tracingopacity="50"><p align="center" class="fcxstudio">&nbsp;</p>
+<p align="center" class="fcxstudio">FCXSTUDIO</p>
+<p align="center" class="fcxstudio">工作室<a href="http://shequ.codemao.cn/work_shop/377">详情</a> </p>
+<p align="center" class="fcxstudio"><a href="http://shequ.codemao.cn/work_shop/377">进入</a>编程猫社区工作室位置</p>
+<p align="center" class="fcxstudio"><a href="file:///D:/FCXSTUDIO%E7%BD%91%E7%AB%99/%E7%BD%91%E7%AB%99%E6%AC%A1%E6%94%AF%E6%8C%81%E6%96%87%E4%BB%B6/%E5%85%B3%E4%BA%8E%E4%BD%9C%E5%93%81.html">关于</a>工作室作品</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center">&nbsp;</p>
+<p align="center" class="fcxstudio"><a href="file:///D:/FCXSTUDIO%E7%BD%91%E7%AB%99/%E7%BD%91%E7%AB%99%E6%AC%A1%E6%94%AF%E6%8C%81%E6%96%87%E4%BB%B6/%E5%85%B3%E4%BA%8E%E5%B7%A5%E4%BD%9C%E5%AE%A4.html">关于</a>工作室</p>
+<p align="center"><a href="file:///D:/FCXSTUDIO%E7%BD%91%E7%AB%99/%E7%BD%91%E7%AB%99%E6%AC%A1%E6%94%AF%E6%8C%81%E6%96%87%E4%BB%B6/%E5%8A%A0%E5%85%A5%E5%B7%A5%E4%BD%9C%E5%AE%A4.html">加入</a>我们</p>
+<p align="center">&nbsp;</p>
+<p align="center" class="fcxstudio"><span class="fcxstudio2">FCXSTUDIO版权所有</span></p>
+<p align="center" class="fcxstudio"><span class="fcxstudio2">© FCXSTUDIO 2020</span></p>
+</body>
+</html>
